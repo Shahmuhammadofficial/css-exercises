@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.main-paragraph{
+    background-color: #ecd3d8;
+    font-family: Verdana, Geneva, Dejavu sans, Tahoma, sans-serif;
+}
+#first-div{
+    color: #0b16ac;
+    font-size: 36px;
+}
+.final.main-paragraph{
+    font-size: 24px;
+}
+#last-div{
+    background-color: #4de24dd5;
+font: size 24px;
+font-weight: bold;
+}
